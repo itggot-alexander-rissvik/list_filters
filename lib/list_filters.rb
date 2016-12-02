@@ -6,7 +6,7 @@ while index != array.size
     result << array[index]
     index = index + 1
   else
-    index = index + 1  
+    index = index + 1
   end
 end
 return result
